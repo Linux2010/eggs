@@ -1,0 +1,144 @@
+# English-2024
+- [back](../Plan.md)
+
+
+- Sat Jan 27
+  - we toss them a coin so that we don't have to think too long about their plight.
+  - Imagine my surprise when I heard the tale of the Beggar Prince.
+  - It takes place in the first age.
+  - It is a time before they were all confined to Oblivion.
+  - The story goes to great lengths to avoid declaring Wheedle's gender.
+  - The beggar was swaddled in rags from head to toe.
+  - The men were intent on slaying the beggar
+  - you could have slain them all with a whisper.
+  - apperntice. 学徒
+  - ceaseless.
+  - I was overjoyed
+- Fir Feb 23
+  - labor
+    - belabor
+    - Collaborate
+    - elaborate
+    - labored 吃力的；费劲的；不自然的
+    - Labour 
+    - labored
+    - labouring
+    - labour
+  - guilt n. 
+    - guilty adj.
+    - Guiltless
+    - Guitly  adv.
+    - Gustiness n. 
+  - tense
+    - Tension n.
+    - tensed
+
+
+- Mon Feb 26
+  - **prac 做**
+    - practice _v._ 练习；经常做，养成……的习惯；信奉（宗教）；（医生、律师等）执业，从业
+    - practical _adj._ 真实的，实际的
+      - he is a very practical person.
+    - practicable _adj._ 可行的，行得通的； 适用的，有用的
+    - practically  _adv._ 几乎；事实上；实际地
+    - practicality _n._ 实用性，可行性
+    - impracticable _adj._ 行不通的；不能实行的
+    - impracticality _adv._ 不切实际的 ，不实用的
+    - practitioner 从业人员，执业者；<正式>从事者，实践者
+  - **press 压**
+    - impress **v.**  印象深刻
+      - impressive
+      - impression
+        - first impression
+      - impressionable adj. 敏感的；易受影响的
+        - an impressionable plaster
+      - impressionism n. 印象派，印象主义
+      - impressionist n. 印象主义者；印象派作家
+      - impressionistic adj. 印象派的
+    - compress v.压紧，压缩 n.敷布，压布
+      - compressed adj.被压缩的；扁平的
+      - compressible adj. 可压缩的；可压榨的
+      - compression n. 压缩
+      - compressor n.压缩机
+      - compressibility n.压缩性
+    - express v.表达，表露
+    - depress v. 使抑郁，使沮丧；降低，抑制
+    - oppress v. 压迫，欺压；
+    - pressure n.压力，挤压；（气体或液体形成的）压力，压强；心理压力，紧张 v. 对……施加压力，强迫；使……增压
+  - **force 暴力**
+    - force
+      - forced adj.被迫的 forced orgasm / forced labor
+      - forcible adj.强制的 
+      - forceful 
+      - Forcefully adv.有力的
+      - forcefulness n.有力；坚强
+    - enforce v.实施，执行
+      - enforcement n.执行，实施
+      - enforceable adj.可实施的；可强行的；可强迫的
+  
+- Thu Feb 29
+  - dynast n.元首；统治者
+    - dynasty n.朝代
+    - dynastic adj.王朝的；朝代的
+  - trad
+    - tradition
+    - traditional
+    - traditionist
+    - traditionalism n.传统主义，传统派
+  - brace
+    - 发音释义：[breɪs] n.支撑物；固定物；牙套；钳子；大括号vt.使固定；加强；支撑；振奋 词源解释：brace出现于14世纪早期，本意是防护胳臂的盔甲片或用于捆扎的皮带，源自古法语brace或braz（胳臂或一臂之长）。作动词时表示用胳臂的动作，如支撑、抓握，后来词义逐渐集中于“使其固定”、“使其能经受住冲击”，并影响了其名词的含义。 衍生词：embrace（拥抱←进入双臂内）；bracelet（手镯←胳臂上的小物品）；bracer（护腕、护肘）；brassiere（胸罩）；bracing（令人振奋的、背带、支柱） 助记窍门：brace→bra（胸罩）→支撑物、固定物
+    - bracer
+    - bracelet
+    - brassiere
+    - embrace
+    - bracing
+    - braced
+  - cretify
+    - certified adj. 被证明的；有保证的；具有证明文件的
+    - certificated adj. 具有证明文件的；立有证据的；业经证明的
+    - certifiable adj. 可证明的；可确认的；可保证的
+    - certificate n.证书；执照，文凭
+    - certification n.证明，保证；检定
+  - folk
+    - folklore n.民间传说
+    - folksy adj.有民间风味的
+
+
+- Mon May 24
+  - vulnus
+    - vulnerable
+    - vulnerability
+  - sist  =  布置到位；站立
+    - resist v. 阻挡，抵制
+      - resistance n. 阻挡，抵制
+      - resistant adj. 抵制的，反抗的
+      - resister n. 抵制者
+      - irresistible adj. 无法抗拒的
+    - insist
+    - persist
+    - assist
+    - desist
+    - consist
+  - spirit
+    - spiral
+    - spire
+- Web Mar 7
+  - fury
+  - furry
+  - ferry
+  - flee
+  - visible
+    - vision
+    - invisible
+    - visibility
+    - invisibility
+    - visit
+    - visitor
+  
+  - minor
+  - sorb
+    - adsorb
+    - absorb
+    - adsorbent
+    - absorbent
+    - absorption

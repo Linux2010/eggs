@@ -1,0 +1,137 @@
+# words
+
+## 词根
+- art = 艺术
+    - artist
+- cap
+  - capable
+  - incapable
+  - capability
+- cid/cis
+    - de-cid-e  
+    - decisive
+    - decision
+    - indecisive
+    - indecision
+    - precise
+    - precisely
+    - precision
+    - imprecise
+    - imprecision
+    - imprecisely
+    - coincide
+    - coincident
+    - coincidence
+    - coincidental
+
+- dam
+  - damn
+  - damnable
+  - damnably
+  - damned
+  - damnedest
+  - damning
+  - damnify
+  - damnation
+  - damage
+  - goddamn
+
+- daze
+  - v.
+  - dazzling
+  - dazzled
+  - adj.
+  - dazed
+  - dazzled
+  - dazzling
+  - adv.
+  - dazedly
+    
+- ham
+  - hammy
+  - hamming
+- hum = 土地，人类
+  - human
+  - humble
+  - humus
+  - inhume
+  - exhume
+- judge 审判
+    - n.
+    - judgment
+    - judgement
+    - judgeship
+    - judicatory
+    - judicature
+    - v.
+    - judging
+    - adj.
+    - judicial
+    - judicable
+    - judicatory
+- narr 说，告诉
+  - v.
+  - narrate
+  - n.
+  - narration
+  - narrator
+  - adj.
+  - narrative
+- repute 名誉
+  - n.
+  - reputation
+- sturdy adj.坚定的
+  - sturdily
+  - sturdiness
+- octa 八面体
+  - octopus
+
+- vit 避免
+  - adj.
+  - vital
+  - vitalize
+  - n.
+  - vitamin
+- viv
+- trad
+- press
+- labor
+- fus
+- rupt
+- ceal
+- sult
+- plur=plus
+- invent
+- vac
+- void
+- fin
+- haste
+- spect
+- ramp
+- narr
+- not = 标记，概念
+- vapor = 蒸汽 
+    -  evaporate/蒸汽
+- force
+- haust = 抽取，排出
+- tect = 覆盖，建造
+
+## 前缀 
+>  不改变词性，改变词义
+- en- 表示加强
+- in- 向内
+- de- 
+- dis- 否定
+- pro-
+- un-
+- ex- 出，向外
+- micro- 微小的
+
+## 后缀
+>  改变词性，不改变词义
+- ure 
+- fy 动词
+- ent 形容词
+- ar
+- able = 可...的
+- ability = 表示能力
