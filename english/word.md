@@ -1,6 +1,35 @@
 # words
 
+## 前缀 
+>  不改变词性，改变词义
+- en- 表示加强
+- in- 向内
+- de- 
+- dis- 否定
+- pro-
+- un-
+- ex- 出，向外
+- micro- 微小的
+
+## 后缀
+>  改变词性，不改变词义
+- ure 
+- fy 动词
+- ent 形容词
+- ar
+- able = 可...的
+- ability = 表示能力
+
 ## 词根
+- haust
+ - exhaust
+ - exhaustible
+ - inexhaustible
+
+- swear
+ - sworn
+ - swearing
+ - swearer
 - art = 艺术
     - artist
 - cap
@@ -116,22 +145,3 @@
 - haust = 抽取，排出
 - tect = 覆盖，建造
 
-## 前缀 
->  不改变词性，改变词义
-- en- 表示加强
-- in- 向内
-- de- 
-- dis- 否定
-- pro-
-- un-
-- ex- 出，向外
-- micro- 微小的
-
-## 后缀
->  改变词性，不改变词义
-- ure 
-- fy 动词
-- ent 形容词
-- ar
-- able = 可...的
-- ability = 表示能力

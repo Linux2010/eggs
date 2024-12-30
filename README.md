@@ -5,7 +5,7 @@
 - [词根词缀](english/word.md)
 
 ## grammar
-- [grammar](english/grammar)
+- [grammar](english/grammar.md)
 
 ## sentence
 - [sentence](english/sentence.md)
