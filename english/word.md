@@ -21,15 +21,29 @@
 - ability = 表示能力
 
 ## 词根
+- clud/clus = 关闭，分割
+  - conclude v.结论
+    - What do you conclude with that?
+  - exclude
+  - excluding
+  - excludive
+  - excludively
+  - include
+  - including
+  - inclusive
+  - inclusion
+  - preclude 排除，预防
+  - disclose
+
 - haust
- - exhaust
- - exhaustible
- - inexhaustible
+  - exhaust
+  - exhaustible
+  - inexhaustible
 
 - swear
- - sworn
- - swearing
- - swearer
+  - sworn
+  - swearing
+  - swearer
 - art = 艺术
     - artist
 - cap
@@ -37,7 +51,7 @@
   - incapable
   - capability
 - cid/cis
-    - de-cid-e  
+    - decide  
     - decisive
     - decision
     - indecisive
