@@ -21,6 +21,11 @@
 - ability = 表示能力
 
 ## 词根
+- awe = 敬畏
+  - awesome
+  - awed
+  - awing
+  - aweless
 - clud/clus = 关闭，分割
   - conclude v.结论
     - What do you conclude with that?
