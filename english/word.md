@@ -19,7 +19,7 @@
 - ar
 - able = 可...的
 - ability = 表示能力
-
+- less
 ## 词根
 - awe = 敬畏
   - awesome
