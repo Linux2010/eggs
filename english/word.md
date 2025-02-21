@@ -117,6 +117,8 @@
     - judicial
     - judicable
     - judicatory
+- laund 冲洗
+  - laundry
 - narr 说，告诉
   - v.
   - narrate
