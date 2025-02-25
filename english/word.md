@@ -130,6 +130,12 @@
 - repute 名誉
   - n.
   - reputation
+- sign
+  - resign
+  - design
+  - consign
+  - resignation
+  
 - sturdy adj.坚定的
   - sturdily
   - sturdiness
